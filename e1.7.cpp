@@ -12,9 +12,8 @@ using namespace std;
 
 int main()
 {
-  cout << "Harry" << endl;
-  cout << "Sally" << endl;
-  cout << "Mary" << endl;
+  
+  cout << "William\nJennifer\nMelissa\n" << endl;
   
   return 0;
 }
